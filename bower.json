@@ -1,0 +1,15 @@
+{
+  "name": "vizzez",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-graphics-vis": "git@github.com:paf31/purescript-graphics-vis#master"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
